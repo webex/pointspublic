@@ -1,0 +1,13 @@
+export MY_POINTSBOT_TOKEN=NABCDEFGHIJKXYz
+export MY_POINTSBOT_PORT=8080
+export MY_POINTSBOT_NAME=pointsbottester
+export MY_POINTSBOT_ID=Y2lzY29zQRSTUVWXYZ
+export MY_POINTSBOT_TEST_ROOM=Y2lzY29zABCDEFGH
+export MY_POINTSBOT_ADMIN_USERS=user@example.com,user2@example.com
+export MY_DB_HOSTNAME=pointsdb.abcdefgh.us-east-2.rds.amazonaws.com
+export MY_METRICS_DB_HOSTNAME=metrics.abcdefgh.us-east-2.rds.amazonaws.com
+export MY_DB_NAME=pointsdb
+export MY_DB_USERNAME=someusername
+export MY_DB_PASSWORD=ABCDEFG
+export MY_DB_CA_PATH=path/to/ssl_ca_file.pem
+export METRICS_BOT_ID=1
